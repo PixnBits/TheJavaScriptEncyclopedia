@@ -266,7 +266,7 @@
 
     All parts are optional., but it is recommended that the whole part always be included. If the exponent part is included, then at least one of the other parts must preceed it. If the whole part is omitted, then the fraction part must be included and must contain at least one digit. The exponent part multiplies the value of the preceding parts by Math.pow(10, exponent). These all represent the same number:
 
-    @program ".01024e4  1.024e+3  10.24E2  102.4E+1  1024.e0  1024.00  1024  10240e-1"
+    @program ".01024e5  1.024e+3  10.24E2  102.4E+1  1024.e0  1024.00  1024  10240e-1"
 
     A hexadecimal number literal is a token containing two required parts.
 
